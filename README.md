@@ -56,7 +56,7 @@ Input Data (metrics.json, user_feedback.json, release_notes.md)
 ### 1. Clone / Download the repository
 
 ```bash
-git clone <your-repo-url>
+git clone https://github.com/mraj2100/war_room_v1.git
 cd warroom
 ```
 
