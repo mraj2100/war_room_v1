@@ -79,7 +79,7 @@ pip install -r requirements.txt
 ```bash
 cp .env.example .env
 # Edit .env and add your OPENAI API key:
-# OPENAI_API_KEY=sk-ant-...
+# OPENAI_API_KEY=sk-...
 ```
 
 Or export directly:
